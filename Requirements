@@ -1,0 +1,30 @@
+BookmyShow  Requirements
+
+Actor
+    App User
+    Theater partner
+    System
+
+
+App User
+     - Search based on Movies/Events or Theater Name
+     - Select movies and Theatre
+     - Rating and Votes for the all movies
+     - Select language or 2d/3d/Imax
+     - Filter Movie based on price / show timings and date 
+     - select number of seats
+     -  Seat availability
+     - Payment 
+
+ Theater partner
+     -  movie availabilty
+     -  scan the ticket to check  if it is valid or not
+     -  cancel/ reschedule / update movie
+     -  
+
+System
+     - login
+     - notification -  Remainders
+     - send ticket to email /message
+     - offers
+     -  multiple users book at same time (concurrent Bookings)  *** 
